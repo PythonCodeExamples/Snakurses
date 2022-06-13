@@ -1,0 +1,10 @@
+#ifndef _COLORS_ENUM_H_SENTRY_
+#define _COLORS_ENUM_H_SENTRY_
+
+enum BINDED_COLOR_PAIRS {
+    RED_PAIR = 1,
+    CYAN_PAIR,
+    GREEN_PAIR
+};
+
+#endif /*_COLORS_ENUM_H_SENTRY_*/
