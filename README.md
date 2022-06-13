@@ -14,6 +14,6 @@ Now you have ```Snake``` file you can run via ```./Snake```
 `ncurses`, `gcc`, `make`
 
 # Controls
-Move snake - `arrow-keys`
-Close the game - `ESC`
-Also you may scale the window. (as well as you scale font-size in terminal. e.g. `Ctrl` + `Shift` + `=`)
+Move snake - `arrow-keys`<br />
+Close the game - `ESC`<br />
+Also you may scale the window. (as well as you scale font-size in terminal. e.g. `Ctrl` + `Shift` + `=`)<br />
